@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Aprende.pe</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="btn_link_to_register">¿Aun no es  miembro? Regístrese ahora.</string>
+    <string name="no_log_in">No se puede iniciar sesion</string>
+    <string name="log_out">Cerrar de Sesion</string>
+    <string name="revoke">Eliminar Cuenta</string>
+    <string name="not_close_session">No se pudo cerrar sesión</string>
+    <string name="not_revoke">No se pudo revocar el acceso</string>
+</resources>
